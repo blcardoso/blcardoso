@@ -5,7 +5,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blcardoso)
 
 <p>Sou um amante da tecnologia e busco aprender cada dia mais! :nerd_face:</p>
-<p>Adoro praticar esportes, viajar e ir ao cinema. :popcorn: </p> 
 
 ### Tecnologias que utilizo no dia a dia :computer:
 

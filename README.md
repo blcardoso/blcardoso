@@ -8,7 +8,7 @@
 
 ### Tecnologias que utilizo no dia a dia :computer:
 
-<div style="inline_block">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="nuxtjs" src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
   <img align="center" alt="vue" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />

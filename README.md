@@ -7,4 +7,4 @@
 
 <p>Sou um amante da tecnologia e busco aprender cada dia mais! :nerd_face:</p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=blcardoso)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bruno.cardosox@gmail.com)](https://github.com/anuraghazra/github-readme-stats)

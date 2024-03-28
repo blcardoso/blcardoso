@@ -6,5 +6,3 @@
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
 <p>Sou um amante da tecnologia e busco aprender cada dia mais! :nerd_face:</p>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bruno.cardosox@gmail.com)](https://github.com/anuraghazra/github-readme-stats)
